@@ -11,7 +11,7 @@
 
 #
 
-## Languages and Technologies I Use 🧰 :
+## Languages and Technologies 🧰 :
 <br/>
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=333333" />
@@ -23,7 +23,7 @@
 
 #
 
-## Frameworks and Tools I Master 🔧 :
+## Frameworks and Tools 🔧 :
 <br/>
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=white" />
