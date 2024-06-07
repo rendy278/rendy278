@@ -17,7 +17,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=333333" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
@@ -36,8 +36,8 @@
 ## My stats ⭐
 <div align="left" >
   <br/>
+<img  alt="my use top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=html"/>
 <img  alt="my stats" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=transparent"/>
-<img  alt="my use top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=jupyter+notebook,html"/>
 </div>
 
 #
