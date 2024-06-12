@@ -43,7 +43,7 @@
 
 #
 
-## Profile views counter 👁️‍🗨️
+## Profile views 👁️‍🗨️
 <br/>
 <a href="https://u8views.com/github/rendy278"><img src="https://u8views.com/api/v1/github/profiles/114122187/views/day-week-month-total-count.svg"></a>
 
