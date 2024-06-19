@@ -39,11 +39,13 @@
 <img  alt="my use top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=html"/>
 <img  alt="my stats" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=transparent"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rendy278&theme=transparent&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rendy278&radius=16&bg_color=ffffff&color=000000&line=83B4FF&point=5A72A0&area=false&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 #
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rendy278&radius=16&bg_color=ffffff&color=000000&line=83B4FF&point=5A72A0&area=false&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+
+#
 
 ## Profile views 👁️‍🗨️
 <br/>
