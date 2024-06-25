@@ -15,6 +15,7 @@
 ## Languages & Technologies 🧰
 <br/>
 <p align="left">
+  <img alt="Php" src="https://img.shields.io/badge/Php-7776B3?style=for-the-badge&logo=php&logoColor=EEEEEE" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=333333" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white" />
