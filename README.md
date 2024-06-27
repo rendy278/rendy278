@@ -36,7 +36,7 @@
 
 #
 
-## My stats ⭐
+## Statistics ⭐
 <div align="left" >
   <br/>
 <img  alt="my use top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=html"/>
