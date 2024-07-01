@@ -39,7 +39,7 @@
 ## Statistics ⭐
 <div align="left" >
   <br/>
-<img  alt="my use top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=html"/>
+<img  alt="my use top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=html"/>
 <img  alt="my stats" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=transparent"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rendy278&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
