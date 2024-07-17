@@ -39,14 +39,16 @@
 ## Statistics ⭐
 <div align="left" >
   <br/>
-<img  alt="my use top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&&langs_count=9&hide=html"/>
-<img  alt="my statistics" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=transparent"/>
+<img  alt="my use top languages by repository" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rendy278&theme=github"/>
+<img  alt="my use top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rendy278&theme=github"/>
+<img  alt="my statistics" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rendy278&theme=github"/>
+<img  alt="productive" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rendy278&theme=github&utcOffset=8"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rendy278&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
 
 #
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rendy278&radius=16&bg_color=ffffff&color=000000&line=83B4FF&point=5A72A0&area=false&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rendy278&theme=github" height="300px" alt="activity-graph graph"  />
 
 #
 
