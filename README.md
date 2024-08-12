@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  Greetings! Im Rendy, an enthusiastic React developer diving into the world of front-end development. As a passionate learner in the field, Im on a journey to master the art of crafting engaging and responsive user interfaces using React. Driven by curiosity and a thirst for knowledge, Im exploring the dynamic landscape of web development and honing my skills in building modern, user-friendly interfaces. My journey as a React developer is just beginning, and Im excited about the endless possibilities for growth and innovation in this ever-evolving field. Join me on this learning adventure, where every line of code is a step towards creating seamless and visually appealing front-end experiences. Lets embark on this coding journey together!
+  Greetings! Im Rendy 👋, an enthusiastic React developer diving into the world of front-end development. As a passionate learner in the field, Im on a journey to master the art of crafting engaging and responsive user interfaces using React. Driven by curiosity and a thirst for knowledge, Im exploring the dynamic landscape of web development and honing my skills in building modern, user-friendly interfaces. My journey as a React developer is just beginning, and Im excited about the endless possibilities for growth and innovation in this ever-evolving field. Join me on this learning adventure, where every line of code is a step towards creating seamless and visually appealing front-end experiences. Lets embark on this coding journey together!
 </p>
 
 #
