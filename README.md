@@ -1,5 +1,9 @@
-#
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rendy278.rendy278" />
+
+#
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rendy!;+I'm+Frontend+Developer!;" />
 </h1>
