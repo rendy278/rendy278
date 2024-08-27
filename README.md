@@ -23,9 +23,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=333333" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-eaeaea?style=for-the-badge&logo=express&logoColor=black" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
 </p>
 
 #
@@ -33,6 +31,9 @@
 ## Frameworks & Tools 🔧
 <br/>
 <p align="left">
+    <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-eaeaea?style=for-the-badge&logo=express&logoColor=black" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-FF8E8F?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
