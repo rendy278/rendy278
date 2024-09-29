@@ -19,10 +19,12 @@
 ## Programing Languages 
 <br/>
 <p align="left">
-  <img alt="Php" src="https://skillicons.dev/icons?i=golang" />
+  <img alt="Html" src="https://skillicons.dev/icons?i=html" />
+  <img alt="Css" src="https://skillicons.dev/icons?i=css" />
   <img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
-  <img alt="Python" src="https://skillicons.dev/icons?i=python" />
   <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
+  <img alt="Php" src="https://skillicons.dev/icons?i=golang" />
+  <img alt="Python" src="https://skillicons.dev/icons?i=python" />
 
 </p>
 
@@ -48,6 +50,7 @@
 #
 
 ## Database
+<br/>
 <p align="left">
 <img alt="Mongo DB"  src="https://skillicons.dev/icons?i=mongodb" />
 <img alt="MY Sql"  src="https://skillicons.dev/icons?i=mysql" />
