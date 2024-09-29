@@ -5,7 +5,7 @@
 
 #
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rendy!;+I'm+Frontend+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rendy!;+I'm+Fullstack+Web+Developer!;" />
 </h1>
 
 <br/>
@@ -31,12 +31,27 @@
 ## Frameworks & Tools 
 <br/>
 <p align="left">
-    <img alt="ExpressJs"  src="https://skillicons.dev/icons?i=express" />
+  <img alt="ExpressJs"  src="https://skillicons.dev/icons?i=express" />
   <img alt="ReactJs"  src="https://skillicons.dev/icons?i=react" />
   <img alt="NextJs" src="https://skillicons.dev/icons?i=next" />
+  <img alt="Svelte"  src="https://skillicons.dev/icons?i=svelte" />
+  <img alt="VueJs"  src="https://skillicons.dev/icons?i=vue" />
+  <img alt="Sass Css"  src="https://skillicons.dev/icons?i=sass" />
+   <img alt="Tailwind Css"  src="https://skillicons.dev/icons?i=tailwind" />
   <img alt="Git" src="https://skillicons.dev/icons?i=git"/>
+   <img alt="Github" src="https://skillicons.dev/icons?i=github"/>
+   <img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>
   <img alt="Figma" src="https://skillicons.dev/icons?i=figma"/>
   <img alt="Visual Studio Code"  src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+#
+
+## Database
+<p align="left">
+<img alt="Mongo DB"  src="https://skillicons.dev/icons?i=mongodb" />
+<img alt="MY Sql"  src="https://skillicons.dev/icons?i=mysql" />
+<img alt="Postgree Sql"  src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 #
