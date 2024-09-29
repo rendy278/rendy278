@@ -71,9 +71,7 @@
 
 #
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rendy278&theme=transparent&hide_border=false" alt="GitHub Streak" width="100%"/>
 
-#
 
 ## Profile views 
 <br/>
