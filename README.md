@@ -30,7 +30,7 @@
 
 #
 
-## Frameworks & Tools 
+## Frameworks 
 <br/>
 <p align="left">
   <img alt="ExpressJs"  src="https://skillicons.dev/icons?i=express" />
@@ -40,7 +40,14 @@
   <img alt="VueJs"  src="https://skillicons.dev/icons?i=vue" />
   <img alt="Sass Css"  src="https://skillicons.dev/icons?i=sass" />
    <img alt="Tailwind Css"  src="https://skillicons.dev/icons?i=tailwind" />
-  <img alt="Git" src="https://skillicons.dev/icons?i=git"/>
+</p>
+
+#
+
+## Tools
+<br/>
+<p align="left">
+<img alt="Git" src="https://skillicons.dev/icons?i=git"/>
    <img alt="Github" src="https://skillicons.dev/icons?i=github"/>
    <img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>
   <img alt="Figma" src="https://skillicons.dev/icons?i=figma"/>
