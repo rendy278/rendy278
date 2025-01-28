@@ -51,7 +51,10 @@
    <img alt="Github" src="https://skillicons.dev/icons?i=github"/>
    <img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>
   <img alt="Figma" src="https://skillicons.dev/icons?i=figma"/>
+  <img alt="Jest" src="https://skillicons.dev/icons?i=jest"/>
   <img alt="Visual Studio Code"  src="https://skillicons.dev/icons?i=vscode" />
+  <img alt="Bun" src="https://skillicons.dev/icons?i=bun"/>
+  <img alt="Node" src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
 #
