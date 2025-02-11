@@ -72,7 +72,8 @@
 ## Statistics 
 <div align="left" >
   <br/>
-<img  alt="my use top languages by repository" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&langs_count=10&card_width=400"/>
+<img alt="my use top languages by repository" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&card_width=400&hide=Jupyter%20Notebook,HTML,CSS"/>
+
 <img  alt="productive" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rendy278&theme=github&utcOffset=8"/>
 <img  alt="my statistics" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=radical)"/>
 <img  alt="my use top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rendy278&theme=github"/>
