@@ -1,6 +1,4 @@
-<a href='https://github.com/Safouene1/support-palestine-banner'>
-  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
-</a>
+![](/header_.png)
 
 
 #
