@@ -55,6 +55,8 @@
   <img alt="Visual Studio Code"  src="https://skillicons.dev/icons?i=vscode" />
   <img alt="Bun" src="https://skillicons.dev/icons?i=bun"/>
   <img alt="Node" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
+  <img alt="Redis" src="https://skillicons.dev/icons?i=redis"/>
 </p>
 
 #
