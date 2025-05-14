@@ -19,11 +19,10 @@
 <p align="left">
   <img alt="Html" src="https://skillicons.dev/icons?i=html" />
   <img alt="Css" src="https://skillicons.dev/icons?i=css" />
-  <img alt="php" src="https://skillicons.dev/icons?i=php" />
   <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
-  <img alt="Php" src="https://skillicons.dev/icons?i=golang" />
+  <img alt="Golang" src="https://skillicons.dev/icons?i=golang" />
   <img alt="Python" src="https://skillicons.dev/icons?i=python" />
-
+<img alt="Php" src="https://skillicons.dev/icons?i=php" />
 </p>
 
 #
