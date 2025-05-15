@@ -53,7 +53,6 @@
   <img alt="Bun" src="https://skillicons.dev/icons?i=bun"/>
   <img alt="Node" src="https://skillicons.dev/icons?i=nodejs"/>
   <img alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
-  <img alt="Redis" src="https://skillicons.dev/icons?i=redis"/>
 </p>
 
 #
@@ -64,6 +63,7 @@
 <img alt="Mongo DB"  src="https://skillicons.dev/icons?i=mongodb" />
 <img alt="MY Sql"  src="https://skillicons.dev/icons?i=mysql" />
 <img alt="Postgree Sql"  src="https://skillicons.dev/icons?i=postgres" />
+  <img alt="Redis" src="https://skillicons.dev/icons?i=redis"/>
 </p>
 
 #
@@ -72,19 +72,16 @@
 <div align="left" >
   <br/>
 <img alt="my use top languages by repository" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&card_width=400&hide=Jupyter%20Notebook,HTML,CSS"/>
-
-<img  alt="productive" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rendy278&theme=github&utcOffset=8"/>
-<img  alt="my statistics" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=radical)"/>
 <img  alt="my use top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rendy278&theme=github"/>
+<img  alt="my statistics" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=radical)"/>
+<img  alt="productive" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rendy278&theme=github&utcOffset=8"/>
 </div>
 
 #
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rendy278&theme=github" height="300px" alt="activity-graph graph"  />
-
-#
-
-
+<div align="left" >
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
+</div>
 
 ## Profile views 
 <br/>
