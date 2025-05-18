@@ -25,7 +25,8 @@
 <img alt="Php" src="https://skillicons.dev/icons?i=php" />
 </p>
 
-#
+
+##
 
 ## Frameworks 
 <br/>
@@ -39,7 +40,7 @@
    <img alt="Tailwind Css"  src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-#
+##
 
 ## Tools
 <br/>
@@ -55,7 +56,8 @@
   <img alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
      <img alt="Linux" src="https://skillicons.dev/icons?i=linux"/>
 </p>
-#
+
+##
 
 ## Database
 <br/>
