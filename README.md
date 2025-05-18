@@ -53,8 +53,8 @@
   <img alt="Bun" src="https://skillicons.dev/icons?i=bun"/>
   <img alt="Node" src="https://skillicons.dev/icons?i=nodejs"/>
   <img alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
+     <img alt="Linux" src="https://skillicons.dev/icons?i=linux"/>
 </p>
-
 #
 
 ## Database
