@@ -38,6 +38,7 @@
   <img alt="VueJs"  src="https://skillicons.dev/icons?i=vue" />
   <img alt="Sass Css"  src="https://skillicons.dev/icons?i=sass" />
    <img alt="Tailwind Css"  src="https://skillicons.dev/icons?i=tailwind" />
+    <img alt="Laravel"  src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
 ##
@@ -66,6 +67,7 @@
 <img alt="MY Sql"  src="https://skillicons.dev/icons?i=mysql" />
 <img alt="Postgree Sql"  src="https://skillicons.dev/icons?i=postgres" />
   <img alt="Redis" src="https://skillicons.dev/icons?i=redis"/>
+    <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
 </p>
 
 #
