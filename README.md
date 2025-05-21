@@ -14,6 +14,17 @@
 
 #
 
+```javascript
+const Rendy = {
+    name: "Rendy",
+    role: "Fullstack Developer",
+    currentFocus: "Web Development",
+    passions: ["Web Development", "Grapich Designer", "Problem Solving"]
+}
+```
+
+#
+
 ## Programing Languages 
 <br/>
 <p align="left">
@@ -82,10 +93,6 @@
 </div>
 
 #
-
-<div align="left" >
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
-</div>
 
 ## Profile views 
 <br/>
