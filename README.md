@@ -1,101 +1,84 @@
 ![](/header_.png)
 
+</br>
+<div align="center" >
+<a href="https://u8views.com/github/rendy278"><img src="https://u8views.com/api/v1/github/profiles/114122187/views/day-week-month-total-count.svg"></a>
+</div>
 
 #
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rendy!;+I'm+Fullstack+Web+Developer!;" />
 </h1>
 
-<br/>
 
-<p>
-  Greetings! Im Rendy 👋,I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.
-</p>
-
-#
-
-```javascript
-const Rendy = {
-    name: "Rendy",
-    role: "Fullstack Developer",
-    currentFocus: "Web Development",
-    passions: ["Web Development", "Grapich Designer", "Problem Solving"]
-}
+```typescript
+ import github from "github"
+ 
+ github.initProfile({
+       name: "Rendy",
+       contacts: [
+          "email: rendyyoshizawa@gmail.com",
+          "whatsapp: +62 838 - 2498 - 2119"
+       ],
+       location: "West Jakarta, Indonesia.",
+       occupation: "Freelance Developer",
+       stacks: {
+          language: [
+             "PHP",
+             "Javascript",
+             "Typescript",
+             "GO",
+          ],
+          frameworks: [
+             "NextJS",
+             "SassCss",
+             "TailwindCss",
+             "VueJS",
+             "Sveltkit",
+             "Laravel",
+             "ExpressJS",
+          ],
+          databases: [
+             "MongoDB",
+             "MySQL",
+             "PostgreSQL",
+             "Redis",
+             "SQlite"
+          ],
+          tools: [
+             "Docker",
+             "Git",
+             "Bun",
+             "NodeJS",
+             "Figma",
+             "Draw.Io",
+             "Jest",
+          ],
+       }
+   });
+ 
+ github.connect();
 ```
 
 #
 
-## Programing Languages 
-<br/>
-<p align="left">
-  <img alt="Html" src="https://skillicons.dev/icons?i=html" />
-  <img alt="Css" src="https://skillicons.dev/icons?i=css" />
-  <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
-  <img alt="Golang" src="https://skillicons.dev/icons?i=golang" />
-  <img alt="Python" src="https://skillicons.dev/icons?i=python" />
-<img alt="Php" src="https://skillicons.dev/icons?i=php" />
-</p>
-
-
-##
-
-## Frameworks 
-<br/>
-<p align="left">
-  <img alt="ExpressJs"  src="https://skillicons.dev/icons?i=express" />
-  <img alt="ReactJs"  src="https://skillicons.dev/icons?i=react" />
-  <img alt="NextJs" src="https://skillicons.dev/icons?i=next" />
-  <img alt="Svelte"  src="https://skillicons.dev/icons?i=svelte" />
-  <img alt="VueJs"  src="https://skillicons.dev/icons?i=vue" />
-  <img alt="Sass Css"  src="https://skillicons.dev/icons?i=sass" />
-   <img alt="Tailwind Css"  src="https://skillicons.dev/icons?i=tailwind" />
-    <img alt="Laravel"  src="https://skillicons.dev/icons?i=laravel" />
-</p>
-
-##
-
-## Tools
-<br/>
-<p align="left">
-<img alt="Git" src="https://skillicons.dev/icons?i=git"/>
-   <img alt="Github" src="https://skillicons.dev/icons?i=github"/>
-   <img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>
-  <img alt="Figma" src="https://skillicons.dev/icons?i=figma"/>
-  <img alt="Jest" src="https://skillicons.dev/icons?i=jest"/>
-  <img alt="Visual Studio Code"  src="https://skillicons.dev/icons?i=vscode" />
-  <img alt="Bun" src="https://skillicons.dev/icons?i=bun"/>
-  <img alt="Node" src="https://skillicons.dev/icons?i=nodejs"/>
-  <img alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
-     <img alt="Linux" src="https://skillicons.dev/icons?i=linux"/>
-</p>
-
-##
-
-## Database
-<br/>
-<p align="left">
-<img alt="Mongo DB"  src="https://skillicons.dev/icons?i=mongodb" />
-<img alt="MY Sql"  src="https://skillicons.dev/icons?i=mysql" />
-<img alt="Postgree Sql"  src="https://skillicons.dev/icons?i=postgres" />
-  <img alt="Redis" src="https://skillicons.dev/icons?i=redis"/>
-    <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
-</p>
-
-#
-
-## Statistics 
-<div align="left" >
-  <br/>
-<img alt="my use top languages by repository" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&card_width=400&hide=Jupyter%20Notebook,HTML,CSS"/>
-<img  alt="my use top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rendy278&theme=github"/>
-<img  alt="my statistics" src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=radical)"/>
-<img  alt="productive" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rendy278&theme=github&utcOffset=8"/>
+<div align="center">
+<img  
+    alt="my statistics" 
+    src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=github_dark"
+    height="200"
+    />
+  <img
+    alt="my use top languages by repository"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&card_width=400&hide=Jupyter%20Notebook,HTML,CSS&theme=github_dark"
+    height="200"
+  />
 </div>
 
-#
-
-## Profile views 
-<br/>
-<a href="https://u8views.com/github/rendy278"><img src="https://u8views.com/api/v1/github/profiles/114122187/views/day-week-month-total-count.svg"></a>
 
 #
+
+<div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=rendy278&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+ </div>
+
