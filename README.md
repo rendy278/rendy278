@@ -15,15 +15,20 @@
  import github from "github"
  
  github.initProfile({
+       aboutme: {
        name: "Rendy",
+       age: 21,
+       hobbies: ["Gaming", "Coding", "Exercising"],
+       location: "West Jakarta, Indonesia",
+       occupation: "Freelance Developer",
+       languages: ["Indonesia", "English", "Japanese"],
+       }
        contacts: [
           "email: rendyyoshizawa@gmail.com",
           "whatsapp: +62 838 - 2498 - 2119"
        ],
-       location: "West Jakarta, Indonesia.",
-       occupation: "Freelance Developer",
        stacks: {
-          language: [
+          programmingLanguages: [
              "PHP",
              "Javascript",
              "Typescript",
