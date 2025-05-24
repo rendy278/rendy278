@@ -66,12 +66,12 @@
 <img  
     alt="my statistics" 
     src="https://github-readme-stats.vercel.app/api?username=rendy278&show_icons=true&theme=github_dark"
-    height="120"
+    height="140"
     />
   <img
     alt="my use top languages by repository"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy278&layout=compact&card_width=400&hide=Jupyter%20Notebook,HTML,CSS&theme=github_dark"
-    height="120"
+    height="140"
   />
 </div>
 
