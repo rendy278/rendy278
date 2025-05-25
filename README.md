@@ -86,5 +86,17 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rendy278&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
  </div>
 
- 
+ #
+
+</br>
+ <div align="center">
+  <a href="https://www.facebook.com/zahra.kcll.7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.linkedin.com/in/rendy-b232b1248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/rn_dscrts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+</br>
+
+<a href='https://www.bdsmovement.net/'>
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
 
