@@ -17,7 +17,7 @@
  github.initProfile({
        aboutme: {
        name: "Rendy",
-       age: 21,
+       age: 22,
        hobbies: ["Gaming", "Coding", "Exercising"],
        location: "West Jakarta, Indonesia",
        occupation: "Freelance Developer",
