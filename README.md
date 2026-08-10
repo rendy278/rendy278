@@ -18,15 +18,12 @@
        aboutme: {
        name: "Rendy",
        age: 22,
+       email: rendyyoshizawa@gmail.com",
        hobbies: ["Gaming", "Coding", "Exercising"],
        location: "West Jakarta, Indonesia",
        occupation: "Freelance Developer",
        languages: ["Indonesia", "English", "Japanese"],
        },
-       contacts: [
-          "email: rendyyoshizawa@gmail.com",
-          "whatsapp: +62 838 - 2498 - 2119"
-       ],
        stacks: {
           programmingLanguages: [
              "PHP",
