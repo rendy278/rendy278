@@ -18,7 +18,7 @@
        aboutme: {
        name: "Rendy",
        age: 22,
-       email: rendyyoshizawa@gmail.com",
+       email: "rendyyoshizawa@gmail.com",
        hobbies: ["Gaming", "Coding", "Exercising"],
        location: "West Jakarta, Indonesia",
        occupation: "Freelance Developer",
