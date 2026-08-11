@@ -26,8 +26,7 @@
        },
        stacks: {
           programmingLanguages: [
-             "PHP",
-             "Javascript",
+             "Php", 
              "Typescript",
              "GO",
           ],
@@ -51,7 +50,7 @@
              "Docker",
              "Git",
              "Bun",
-             "NodeJS",
+             "NodeJS", 
              "Figma",
              "Draw.Io",
              "Jest",
