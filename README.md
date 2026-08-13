@@ -10,7 +10,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rendy!;+I'm+Fullstack+Web+Developer!;" />
 </h1>
 
-![](/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+<img 
+  src="/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" 
+  width="100%" 
+  alt="Demo"
+/>
 
 
 ```typescript
