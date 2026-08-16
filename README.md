@@ -57,8 +57,7 @@
              "Git",
              "Bun",
              "NodeJS", 
-             "Figma",
-             "Draw.Io",
+             "Figma", 
              "Jest",
           ],
        }
